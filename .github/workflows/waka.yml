@@ -16,3 +16,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           USERNAME: Galarzaa90
           SHOW_PROJECTS: "False"
+          INPUT_SHOW_TIMEZONE: "False"
