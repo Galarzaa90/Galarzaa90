@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 📊 **This week I spent my time on** 
 
 ```text
-⌚︎ Timezone: America/Hermosillo
 
 💬 Languages: 
 Python                   9 hrs 35 mins       ████████████░░░░░░░░░░░░░   49.4% 
