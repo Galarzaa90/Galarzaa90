@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Allan Galarza
+*Software Engineer at [Gila Software](https://gilasw.com)*  
+*Developer of [NabBot](https://nabbot.xyz)*
 
 <!--
 **Galarzaa90/Galarzaa90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
