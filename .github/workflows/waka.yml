@@ -16,5 +16,5 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           USERNAME: Galarzaa90
           SHOW_PROJECTS: "False"
-          INPUT_SHOW_TIMEZONE: "False"
-          INPUT_TIMEZONE_OFFSET: -7
+          SHOW_TIMEZONE: "False"
+          TIMEZONE_OFFSET: -7
