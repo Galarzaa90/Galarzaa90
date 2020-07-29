@@ -4,7 +4,8 @@
 
 ![Discord](https://img.shields.io/badge/Galarzaa%238515-7289DA?logo=discord&style=flat-square&logoColor=white)
 [![Reddit](https://img.shields.io/badge/Galarzaa%238515-FF4500?logo=reddit&style=flat-square&logoColor=white)](https://reddit.com/u/Galarzaa)
-
+[![Resume](https://img.shields.io/badge/Resume-000000?logo=github&style=flat-square&logoColor=white)](https://galarzaa.github.io)
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&style=flat-square&logoColor=white)](mailto:allan.galarza@gmail.com)
 ### Technologies
 ![Python](https://img.shields.io/badge/Python-4B8BBE?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-690081?style=flat-square&logo=c-sharp&logoColor=white)
