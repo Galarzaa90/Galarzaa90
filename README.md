@@ -1,5 +1,5 @@
 ### Hi there, I'm Allan Galarza
-*Software Engineer at [Gila Software](https://gilasw.com)*  
+*Software Engineer at [Encora](https://encora.com)*  
 *Developer of [NabBot](https://nabbot.xyz)*
 
 ![Discord](https://img.shields.io/badge/Galarzaa%238515-7289DA?logo=discord&style=flat-square&logoColor=white)
