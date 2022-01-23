@@ -9,14 +9,13 @@
 
 ### Packages
 [![PyPi](https://img.shields.io/badge/PyPi-3775A9?logo=pypi&style=flat-square&logoColor=white)](https://pypi.org/user/Galarzaa90/)
-[![Bintray](https://img.shields.io/badge/Bintray-43A047?logo=jfrog-bintray&style=flat-square&logoColor=white)](https://bintray.com/galarzaa90/maven)
 
 ### Technologies
 ![Python](https://img.shields.io/badge/Python-4B8BBE?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-690081?style=flat-square&logo=c-sharp&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-5848F4?logo=kotlin&style=flat-square&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-690081?style=flat-square&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-0180CD?style=flat-square&logo=c%2B%2B)
 ![Android](https://img.shields.io/badge/Android-78C257?style=flat-square&logo=android&logoColor=white)
@@ -26,7 +25,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C41949?style=flat-square&logo=raspberry-pi)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05133?style=flat-square&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0064a5?style=flat-square&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0064a5?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-E02E28?style=flat-square&logo=microsoft-sql-server)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 
