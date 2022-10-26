@@ -33,4 +33,24 @@
 
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-158%20Thousand%20lines%20of%20code-blue)
+
+**I Mostly Code in Python** 
+
+```text
+Python                   19 repos            ██████████████░░░░░░░░░░░   59.38% 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
+Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Galarzaa90/Galarzaa90/master/charts/bar_graph.png) 
+
+
+ Last Updated on 26/10/2022 21:34:10 UTC
 <!--END_SECTION:waka-->
