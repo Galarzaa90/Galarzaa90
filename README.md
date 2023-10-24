@@ -35,15 +35,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-9%2C219%20hrs%2053%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.2%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5285 commits        ████████░░░░░░░░░░░░░░░░░   31.70 % 
-🌆 Daytime                7262 commits        ███████████░░░░░░░░░░░░░░   43.56 % 
-🌃 Evening                3957 commits        ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-🌙 Night                  168 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+🌞 Morning                5258 commits        ████████░░░░░░░░░░░░░░░░░   31.71 % 
+🌆 Daytime                7227 commits        ███████████░░░░░░░░░░░░░░   43.58 % 
+🌃 Evening                3933 commits        ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+🌙 Night                  166 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 ```
 
 
@@ -84,5 +84,5 @@ ShaderLab                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Galarzaa90/Galarzaa90/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2023 18:42:58 UTC
+ Last Updated on 24/10/2023 18:44:00 UTC
 <!--END_SECTION:waka-->
