@@ -51,18 +51,13 @@
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 17 mins       ██████████████░░░░░░░░░░░   56.06 % 
-Kotlin                   3 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   41.42 % 
-Docker                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  4 hrs 26 mins       ███████████████░░░░░░░░░░   58.09 % 
-IntelliJ                 3 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   41.91 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      7 hrs 38 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -82,5 +77,5 @@ ShaderLab                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Galarzaa90/Galarzaa90/main/assets/bar_graph.png)
 
 
- Last Updated on 26/12/2023 18:42:59 UTC
+ Last Updated on 27/12/2023 18:41:48 UTC
 <!--END_SECTION:waka-->
