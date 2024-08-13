@@ -6,19 +6,20 @@
 [![Resume](https://img.shields.io/badge/Resume-000000?logo=github&style=flat-square&logoColor=white)](https://galarzaa90.github.io)
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&style=flat-square&logoColor=white)](mailto:allan.galarza@gmail.com)
 
-### Packages
+### Packages & Registries
 [![PyPi](https://img.shields.io/badge/PyPi-3775A9?logo=pypi&style=flat-square&logoColor=white)](https://pypi.org/user/Galarzaa90/)
 [![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apache-maven&style=flat-square&logoColor=white)](https://central.sonatype.com/namespace/com.galarzaa)
+[![DockerHub](https://img.shields.io/badge/DockerHub-2496ED?style=flat-square&logo=docker&logoColor=white)]([Docker-2496ED](https://hub.docker.com/u/galarzaa90))
 
 ### Technologies
 ![Python](https://img.shields.io/badge/Python-4B8BBE?style=flat-square&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&style=flat-square&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-690081?style=flat-square&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-0180CD?style=flat-square&logo=c%2B%2B)
-![C++](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular)
 ![NodeJS](https://img.shields.io/badge/NodeJS-3C873A?style=flat-square&logo=node.js&logoColor=white)
