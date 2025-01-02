@@ -34,33 +34,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%2C363%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%2C363%20hrs%2032%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.6%20million%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                4198 commits        ███████░░░░░░░░░░░░░░░░░░   28.87 % 
-🌆 Daytime                6186 commits        ███████████░░░░░░░░░░░░░░   42.54 % 
-🌃 Evening                3895 commits        ███████░░░░░░░░░░░░░░░░░░   26.79 % 
-🌙 Night                  261 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   6 hrs 23 mins       █████████████████████████   99.85 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-
-🔥 Editors: 
-Cursor                   6 hrs 24 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  6 hrs 24 mins       █████████████████████████   100.00 % 
-```
 
 **I Mostly Code in Python** 
 
@@ -79,5 +55,5 @@ ShaderLab                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Galarzaa90/Galarzaa90/main/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2025 18:49:49 UTC
+ Last Updated on 02/01/2025 18:50:34 UTC
 <!--END_SECTION:waka-->
