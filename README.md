@@ -34,9 +34,38 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%2C238%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%2C239%20hrs%202%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.4%20million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3490 commits        █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
+🌆 Daytime                6606 commits        ██████████░░░░░░░░░░░░░░░   40.09 % 
+🌃 Evening                6071 commits        █████████░░░░░░░░░░░░░░░░   36.84 % 
+🌙 Night                  312 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   3 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   39.59 % 
+Markdown                 2 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   28.43 % 
+YAML                     1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+SSH Config               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+CSV                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+
+🔥 Editors: 
+VS Code                  9 hrs 21 mins       ████████████████████████░   94.64 % 
+IntelliJ IDEA            22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+PyCharm                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+
+💻 Operating System: 
+Windows                  9 hrs 53 mins       █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in Python** 
 
@@ -55,5 +84,5 @@ ShaderLab                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Galarzaa90/Galarzaa90/main/assets/bar_graph.png)
 
 
- Last Updated on 04/07/2025 18:54:24 UTC
+ Last Updated on 06/07/2025 18:53:11 UTC
 <!--END_SECTION:waka-->
