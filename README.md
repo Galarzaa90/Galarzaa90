@@ -3,9 +3,9 @@
 *Creator of [NabBot](https://nabbot.xyz)*
 
 ![Discord](https://img.shields.io/badge/galarzaa-5865F2?logo=discord&style=flat-square&logoColor=white)
+[![Threads](https://img.shields.io/badge/galarzaa-000000?logo=threads&style=flat-square&logoColor=white)](https://www.threads.com/@galarzaa90)
 [![Resume](https://img.shields.io/badge/Resume-000000?logo=github&style=flat-square&logoColor=white)](https://galarzaa90.github.io)
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&style=flat-square&logoColor=white)](mailto:allan.galarza@gmail.com)
-[![Threads](https://img.shields.io/badge/galarzaa-000000?logo=threads&style=flat-square&logoColor=white)](https://www.threads.com/@galarzaa90)
 
 ### Packages & Registries
 [![PyPi](https://img.shields.io/badge/PyPi-3775A9?logo=pypi&style=flat-square&logoColor=white)](https://pypi.org/user/Galarzaa90/)
