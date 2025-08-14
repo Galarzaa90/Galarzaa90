@@ -1,10 +1,11 @@
 ### Hi there, I'm Allan Galarza
-*Software Engineer at [Encora](https://encora.com)*  
-*Developer of [NabBot](https://nabbot.xyz)*
+*Software Engineer at Fully Parsed*  
+*Creator of [NabBot](https://nabbot.xyz)*
 
 ![Discord](https://img.shields.io/badge/galarzaa-5865F2?logo=discord&style=flat-square&logoColor=white)
 [![Resume](https://img.shields.io/badge/Resume-000000?logo=github&style=flat-square&logoColor=white)](https://galarzaa90.github.io)
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&style=flat-square&logoColor=white)](mailto:allan.galarza@gmail.com)
+[![Threads](https://img.shields.io/badge/galarzaa-000000?logo=threads&style=flat-square&logoColor=white)](https://www.threads.com/@galarzaa90)
 
 ### Packages & Registries
 [![PyPi](https://img.shields.io/badge/PyPi-3775A9?logo=pypi&style=flat-square&logoColor=white)](https://pypi.org/user/Galarzaa90/)
@@ -30,7 +31,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-E02E28?style=flat-square&logo=microsoft-sql-server)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-
 
 
 <!--START_SECTION:waka-->
