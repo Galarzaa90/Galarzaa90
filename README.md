@@ -34,6 +34,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-12%2C756%20hrs%2020%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.4%20million%20lines%20of%20code-blue)
 
 **I Mostly Code in Python** 
@@ -53,5 +55,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Galarzaa90/Galarzaa90/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2025 18:52:12 UTC
+ Last Updated on 21/09/2025 18:54:20 UTC
 <!--END_SECTION:waka-->
