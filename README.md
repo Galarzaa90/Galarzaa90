@@ -34,9 +34,39 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%2C869%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%2C873%20hrs%2035%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.4%20million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                7264 commits        █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+🌆 Daytime                13108 commits       ██████████░░░░░░░░░░░░░░░   38.74 % 
+🌃 Evening                12905 commits       ██████████░░░░░░░░░░░░░░░   38.14 % 
+🌙 Night                  555 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               28 hrs 37 mins      █████████████░░░░░░░░░░░░   50.53 % 
+Kotlin                   10 hrs              ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Markdown                 6 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+HTML                     3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+YAML                     3 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+
+🔥 Editors: 
+Cursor                   27 hrs 37 mins      ████████████░░░░░░░░░░░░░   48.78 % 
+IntelliJ IDEA            17 hrs 48 mins      ████████░░░░░░░░░░░░░░░░░   31.43 % 
+VS Code                  11 hrs 12 mins      █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+
+💻 Operating System: 
+Windows                  29 hrs 1 min        █████████████░░░░░░░░░░░░   51.22 % 
+WSL                      27 hrs 37 mins      ████████████░░░░░░░░░░░░░   48.78 % 
+```
 
 **I Mostly Code in Python** 
 
@@ -55,5 +85,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Galarzaa90/Galarzaa90/main/assets/bar_graph.png)
 
 
- Last Updated on 05/10/2025 18:56:21 UTC
+ Last Updated on 06/10/2025 19:01:36 UTC
 <!--END_SECTION:waka-->
