@@ -34,38 +34,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%2C197%20hrs%2039%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38.6%20million%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                12181 commits       ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
-🌆 Daytime                20518 commits       ██████████░░░░░░░░░░░░░░░   41.27 % 
-🌃 Evening                16345 commits       ████████░░░░░░░░░░░░░░░░░   32.87 % 
-🌙 Night                  677 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Kotlin                   20 hrs 21 mins      ███████████░░░░░░░░░░░░░░   43.96 % 
-TypeScript               14 hrs 59 mins      ████████░░░░░░░░░░░░░░░░░   32.38 % 
-YAML                     4 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-Markdown                 3 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-Docker                   1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-
-🔥 Editors: 
-IntelliJ IDEA            24 hrs 37 mins      █████████████░░░░░░░░░░░░   53.19 % 
-VS Code                  21 hrs 40 mins      ████████████░░░░░░░░░░░░░   46.81 % 
-
-💻 Operating System: 
-Windows                  24 hrs 37 mins      █████████████░░░░░░░░░░░░   53.19 % 
-WSL                      21 hrs 40 mins      ████████████░░░░░░░░░░░░░   46.81 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42.4%20million%20lines%20of%20code-blue)
 
 **I Mostly Code in Python** 
 
@@ -84,5 +53,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Galarzaa90/Galarzaa90/main/assets/bar_graph.png)
 
 
- Last Updated on 25/11/2025 19:04:43 UTC
+ Last Updated on 28/11/2025 19:05:01 UTC
 <!--END_SECTION:waka-->
