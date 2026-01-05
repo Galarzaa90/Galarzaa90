@@ -34,17 +34,17 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%2C363%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%2C363%20hrs%2019%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65.66%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61.30%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                20744 commits       ███████░░░░░░░░░░░░░░░░░░   27.30 % 
-🌆 Daytime                33627 commits       ███████████░░░░░░░░░░░░░░   44.25 % 
-🌃 Evening                20798 commits       ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-🌙 Night                  827 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+🌞 Morning                19344 commits       ███████░░░░░░░░░░░░░░░░░░   26.97 % 
+🌆 Daytime                31538 commits       ███████████░░░░░░░░░░░░░░   43.97 % 
+🌃 Evening                20047 commits       ███████░░░░░░░░░░░░░░░░░░   27.95 % 
+🌙 Night                  801 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 ```
 
 
@@ -84,5 +84,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Galarzaa90/Galarzaa90/main/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2026 19:10:17 UTC
+ Last Updated on 05/01/2026 19:13:41 UTC
 <!--END_SECTION:waka-->
