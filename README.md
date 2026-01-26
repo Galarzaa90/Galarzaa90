@@ -34,39 +34,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%2C473%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%2C475%20hrs%2011%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-81.55%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                25911 commits       ███████░░░░░░░░░░░░░░░░░░   28.59 % 
-🌆 Daytime                40784 commits       ███████████░░░░░░░░░░░░░░   44.99 % 
-🌃 Evening                23055 commits       ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
-🌙 Night                  893 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               23 hrs 25 mins      ████████████████░░░░░░░░░   63.14 % 
-YAML                     6 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-JSON                     2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-Kotlin                   2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-Markdown                 1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-
-🔥 Editors: 
-VS Code                  34 hrs 33 mins      ███████████████████████░░   93.14 % 
-IntelliJ IDEA            2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-
-💻 Operating System: 
-WSL                      30 hrs 57 mins      █████████████████████░░░░   83.42 % 
-Linux                    3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Windows                  2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-82.01%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in Python** 
 
@@ -85,5 +55,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Galarzaa90/Galarzaa90/main/assets/bar_graph.png)
 
 
- Last Updated on 25/01/2026 19:09:34 UTC
+ Last Updated on 26/01/2026 19:20:44 UTC
 <!--END_SECTION:waka-->
