@@ -34,17 +34,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%2C230%20hrs%2049%20mins-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-184.96%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-191.04%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 323.4 kB Used in GitHub's Storage 
+> 📦 323.5 kB Used in GitHub's Storage 
  > 
-> 🏆 847 Contributions in the Year 2026
+> 🏆 851 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -69,5 +67,5 @@ Shell                    3 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/Galarzaa90/Galarzaa90/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 12:29:17 UTC
+ Last Updated on 29/05/2026 12:20:14 UTC
 <!--END_SECTION:waka-->
