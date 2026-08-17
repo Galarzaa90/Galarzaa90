@@ -34,9 +34,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%2C569%20hrs%2038%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%2C573%20hrs%2031%20mins-blue?style=flat-square)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-720%20hrs%2015%20mins-blue?style=flat-square)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-721%20hrs%2048%20mins-blue?style=flat-square)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat-square)
 
@@ -79,49 +79,49 @@ Sunday                   1893 commits        ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ```text
 💬 Programming Languages: 
-Markdown                 13 hrs 32 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.10 % 
-TypeScript               10 hrs 21 mins      ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.31 % 
-Other                    6 hrs 4 mins        ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.86 % 
-YAML                     4 hrs 15 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.39 % 
-TOML                     1 hr 15 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.06 % 
+Markdown                 13 hrs 51 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.31 % 
+TypeScript               10 hrs 23 mins      ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.75 % 
+Other                    6 hrs 58 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.26 % 
+YAML                     4 hrs 18 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.44 % 
+Kotlin                   2 hrs 49 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.17 % 
 
 🔥 Editors: 
-Claude Code              23 hrs 13 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   56.77 % 
-Codex Vscode             8 hrs 24 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.57 % 
-VS Code                  7 hrs 44 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.91 % 
-Codex CLI                48 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.99 % 
-IntelliJ IDEA            43 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.76 % 
+Claude Code              23 hrs 13 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.83 % 
+Codex Vscode             9 hrs 56 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.77 % 
+VS Code                  7 hrs 48 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.10 % 
+IntelliJ IDEA            3 hrs 52 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.48 % 
+Codex CLI                49 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.82 % 
 
 💻 Operating System: 
-Windows                  31 hrs 17 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   76.50 % 
-Linux                    5 hrs 22 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.13 % 
-WSL                      4 hrs 14 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.37 % 
+Windows                  35 hrs 3 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   76.73 % 
+Linux                    5 hrs 22 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.76 % 
+WSL                      5 hrs 15 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.51 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 hrs 44 mins (87.38%)
+⏱ AI Coding Time: 37 hrs 18 mins (81.62%)
 
-✍️ 23,637 lines written by AI, 210 lines written by hand (99.12% AI-written)
+✍️ 23,993 lines written by AI, 269 lines written by hand (98.89% AI-written)
 
-🔤 5,749,508 Input Tokens, 1,056,948 Output Tokens
+🔤 6,021,973 Input Tokens, 1,076,931 Output Tokens
 
-💵 $564.20 Estimated AI Cost This Week
+💵 $565.75 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 340 AI Prompts
+🧠 46 AI Sessions, 353 AI Prompts
 
-Opus                     19,419 lines        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀   79.72 % 
-GPT                      2,961 lines         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.16 % 
-Fable                    1,978 lines         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.12 % 
+Opus                     19,419 lines        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀   78.57 % 
+GPT                      3,318 lines         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.43 % 
+Fable                    1,978 lines         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.00 % 
 Sonnet                   0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 Haiku                    0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.12% of written lines came from AI
-📚 Verbose Prompter — average 2,926 characters per prompt
+🤖 AI-Driven — 98.89% of written lines came from AI
+📚 Verbose Prompter — average 2,899 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 1.28% of changed lines were hand-edited
+🚀 High AI Trust — 1.68% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -141,5 +141,5 @@ Shell                    3 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/Galarzaa90/Galarzaa90/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 09:02:14 UTC
+ Last Updated on 17/08/2026 09:23:36 UTC
 <!--END_SECTION:waka-->
