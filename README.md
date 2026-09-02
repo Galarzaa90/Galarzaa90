@@ -34,19 +34,19 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%2C632%20hrs%2051%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%2C642%20hrs%2040%20mins-blue?style=flat-square)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-761%20hrs%209%20mins-blue?style=flat-square)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-767%20hrs%2058%20mins-blue?style=flat-square)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat-square)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-330.42%20million%20lines%20of%20code-blue?style=flat-square)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-330.43%20million%20lines%20of%20code-blue?style=flat-square)
 
 **🐱 My GitHub Data** 
 
-> 📦 328.1 kB Used in GitHub's Storage 
+> 📦 328.2 kB Used in GitHub's Storage 
  > 
-> 🏆 2,398 Contributions in the Year 2026
+> 🏆 2,399 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -57,19 +57,19 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                96487 commits       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.89 % 
-🌆 Daytime                133158 commits      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   48.15 % 
-🌃 Evening                46290 commits       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.74 % 
+🌞 Morning                96489 commits       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.89 % 
+🌆 Daytime                133178 commits      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   48.15 % 
+🌃 Evening                46298 commits       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.74 % 
 🌙 Night                  606 commits         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.22 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   54920 commits       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.86 % 
-Tuesday                  51564 commits       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.65 % 
+Monday                   54948 commits       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.87 % 
+Tuesday                  51566 commits       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.64 % 
 Wednesday                61333 commits       ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.18 % 
 Thursday                 48612 commits       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.58 % 
-Friday                   55877 commits       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.21 % 
+Friday                   55877 commits       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.20 % 
 Saturday                 2266 commits        ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.82 % 
 Sunday                   1969 commits        ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.71 % 
 ```
@@ -79,42 +79,47 @@ Sunday                   1969 commits        ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ```text
 💬 Programming Languages: 
-Kotlin                   24 hrs 24 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀   81.88 % 
-Other                    2 hrs 15 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.55 % 
-TypeScript               1 hr 48 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.10 % 
-Markdown                 42 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.38 % 
-Properties               29 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.62 % 
+Kotlin                   29 hrs 34 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   75.17 % 
+Markdown                 4 hrs 54 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.47 % 
+Other                    2 hrs 59 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.59 % 
+TypeScript               48 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.04 % 
+Properties               29 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.23 % 
 
 🔥 Editors: 
-IntelliJ IDEA            19 hrs 24 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   65.13 % 
-Codex Vscode             8 hrs 57 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.08 % 
-Codex CLI                1 hr 25 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.78 % 
+IntelliJ IDEA            24 hrs 54 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   63.31 % 
+Codex Vscode             8 hrs 11 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.82 % 
+Claude Code              3 hrs 52 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.83 % 
+Codex CLI                2 hrs 19 mins       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.91 % 
+VS Code                  2 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.13 % 
 
 💻 Operating System: 
-Windows                  27 hrs 33 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   92.46 % 
-WSL                      2 hrs 14 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.54 % 
+Windows                  37 hrs 54 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   96.37 % 
+WSL                      1 hr 25 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.63 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 58 mins (40.19%)
+⏱ AI Coding Time: 17 hrs 45 mins (45.13%)
 
-✍️ 3,928 lines written by AI, 1,236 lines written by hand (76.07% AI-written)
+✍️ 9,897 lines written by AI, 1,621 lines written by hand (85.93% AI-written)
 
-🔤 3,186,226 Input Tokens, 390,412 Output Tokens
+🔤 4,666,337 Input Tokens, 614,316 Output Tokens
 
-💵 $32.01 Estimated AI Cost This Week
+💵 $78.04 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 129 AI Prompts
+🧠 45 AI Sessions, 156 AI Prompts
 
-GPT                      4,680 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Opus                     7,047 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   66.35 % 
+GPT                      3,574 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.65 % 
+Sonnet                   0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
+Haiku                    0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 76.07% of written lines came from AI
-📚 Verbose Prompter — average 1,739 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 84.98% of changed lines were hand-edited
+🤖 AI-Driven — 85.93% of written lines came from AI
+📚 Verbose Prompter — average 2,041 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 72.33% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -134,5 +139,5 @@ HTML                     2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/Galarzaa90/Galarzaa90/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2026 13:52:11 UTC
+ Last Updated on 02/09/2026 13:23:28 UTC
 <!--END_SECTION:waka-->
