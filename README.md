@@ -34,7 +34,9 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%2C955%20hrs%203%20mins-blue?style=flat-square)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat-square)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-388.45%20million%20lines%20of%20code-blue?style=flat-square)
 
@@ -67,5 +69,5 @@ HTML                     3 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/Galarzaa90/Galarzaa90/main/assets/bar_graph.png)
 
 
- Last Updated on 03/11/2026 16:35:59 UTC
+ Last Updated on 04/11/2026 16:56:08 UTC
 <!--END_SECTION:waka-->
